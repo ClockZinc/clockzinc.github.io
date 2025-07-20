@@ -66,8 +66,6 @@ I am interest in intelligent decision-making for UAV swarms, specializing in:
 
 ## 💡 Patents
 
-### 💡 Patents  
-
 | **Patent Title**                                                                                | **Application No.**     | **Type**             | **Inventor Position** |  
 |-------------------------------------------------------------------------------------------------|-------------------------|-----------------------|------------------------|  
 | Reinforcement Learning UAV Path Planning Method with Delayed Experience Prioritization          | CN 202311004197.1       | National Invention Patent       | 2nd inventor          |  
@@ -77,29 +75,14 @@ I am interest in intelligent decision-making for UAV swarms, specializing in:
 
 ## 🏆 Awards & Honors
 
-🥇 National-Level Awards
 
-1. First Prize (Rank 1/5)  
-   10th China Graduate Future Flight Vehicle Innovation Competition  
-   Nov 2024  
-
-2. First Prize (Rank 1/1)  
-   4th National Undergraduate Aerospace Graduation Design Exchange  
-   May 2023  
-
-3. Third Prize (Rank 1/3)  
-   20th "HUAWEI Cup" China Post-Graduate Mathematical Contest in Modeling  
-   Dec 2023  
-
-🥉 Provincial/Ministerial-Level Awards
-
-4. Outstanding Undergraduate Thesis Award (Rank 1/1)  
-   Beijing Municipal Education Commission  
-   Oct 2023  
-
-5. Third Prize (Rank 4/10)  
-   4th Beijing College Students Innovation & Entrepreneurship Competition  
-   Jun 2025  
+| **Award**                              | **Scope**    | **Competition/Event**                                           | **Team Rank** | **Team Role**     | **Date** |  
+|----------------------------------------|--------------|-----------------------------------------------------------------|---------------|-------------------|----------|  
+| First Prize                            |  🥇National        | Future Flight Vehicle Innovation Competition (10th)             | 1/5           | Team Leader       | Nov 2024 |  
+| **Outstanding Undergraduate Thesis**   |  🥉Provincial      | Beijing Municipal Education Commission                          | 1/1           | Sole Author       | Oct 2023 |  
+| First Prize                            |  🥇National        | Aerospace Graduation Design Exchange (4th)                      | 1/1           | Sole Winner       | May 2023 |  
+| Third Prize                            |  🥇National        | Mathematical Contest in Modeling ("HUAWEI Cup" 20th)            | 1/3           | Team Lead         | Dec 2023 |  
+| Third Prize                            |  🥉Provincial      | Beijing College Innovation & Entrepreneurship Competition (4th) | 4/10          | Key Contributor   | Jun 2025 |  
 
 ## ⚙️ Technical Expertise
 
