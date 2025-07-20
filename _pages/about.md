@@ -16,11 +16,10 @@ M.Sc. Candidate in Aerospace Science & Technology | UAV Swarm Intelligence Resea
 📧 clockzinc@163.com | 📍 Haidian District, Beijing  
 🔐 **Research Transparency Notice:**  
 _"In compliance with institutional policy, all research-related repositories have been archived.  
-I'm now actively developing public AI tools - stay tuned for **PaperPal**:  
-An AI-powered academic recommendation system launching this quarter!"_  
-
+I'm now actively developing public AI tools - stay tuned for **PaperPal**:  An AI-powered academic recommendation system launching this quarter!"_  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClockZinc&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClockZinc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+
 🔬 Research Focus
 
 I am interest in intelligent decision-making for UAV swarms, specializing in:  
