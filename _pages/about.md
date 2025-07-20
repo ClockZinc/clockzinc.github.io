@@ -17,9 +17,10 @@ M.Sc. Candidate in Aerospace Science & Technology | UAV Swarm Intelligence Resea
 🔐 **Research Transparency Notice:**  
 _"In compliance with institutional policy, all research-related repositories have been archived.  
 I'm now actively developing public AI tools - stay tuned for **PaperPal**:  
-An AI-powered academic recommendation system launching this quarter!"_
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClockZinc)](https://github.com/anuraghazra/github-readme-stats)  
+An AI-powered academic recommendation system launching this quarter!"_  
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClockZinc&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClockZinc&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 🔬 Research Focus
 
 I am interest in intelligent decision-making for UAV swarms, specializing in:  
