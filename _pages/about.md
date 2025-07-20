@@ -20,7 +20,8 @@ I'm now actively developing public AI tools - stay tuned for **PaperPal**:
 An AI-powered academic recommendation system launching this quarter!"_  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClockZinc&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClockZinc&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClockZinc&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClockZinc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 🔬 Research Focus
 
 I am interest in intelligent decision-making for UAV swarms, specializing in:  
