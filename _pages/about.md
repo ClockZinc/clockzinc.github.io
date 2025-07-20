@@ -86,15 +86,14 @@ I am interest in intelligent decision-making for UAV swarms, specializing in:
 
 ## ⚙️ Technical Expertise
 
-Domain Skills
 
-Intelligent Decision DRL Algorithms (DDPG/TD3/SAC/PPO) • MARL (MADDPG) • LLM-Agent Frameworks
+• Intelligent Decision DRL Algorithms (DDPG/TD3/SAC/PPO) • MARL (MADDPG) • LLM-Agent Frameworks
 
-Swarm Systems ROS/ROS2 Customization • C++ Algorithm Libraries • Semi-Physical Simulation
+• Swarm Systems ROS/ROS2 Customization • C++ Algorithm Libraries • Semi-Physical Simulation
 
-UAV Full-Stack eVTOL Communication Networks • Cooperative Control Systems • GCS Design
+• UAV Full-Stack eVTOL Communication Networks • Cooperative Control Systems • GCS Design
 
-Programming Python (PyTorch/TensorFlow) • C++/C • MATLAB
+• Programming Python (PyTorch/TensorFlow) • C++/C • MATLAB
 
 # 🚁 Projects (Civilian Applications)
 
