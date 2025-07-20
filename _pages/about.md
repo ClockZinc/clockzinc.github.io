@@ -6,20 +6,159 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Here’s a professional English version for your academic homepage "About" page, meticulously sanitized to exclude sensitive military references and focus on academic research and civilian applications:
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+👨🔬 About Me
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Jianxin Zhong  
+M.Sc. Candidate in Aerospace Science & Technology | UAV Swarm Intelligence Researcher  
+🚀 School of Aerospace Engineering, Beijing Institute of Technology  
+📧 clockzinc@163.com | 📍 Haidian District, Beijing  
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+🔬 Research Focus
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I am interest in intelligent decision-making for UAV swarms, specializing in:  
+• Multi-Agent Reinforcement Learning (MARL): Distributed task planning & real-time coordination  
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+• Semantic-Driven Mission Orchestration: LLM-Agent frameworks for autonomous task decomposition  
 
+• Real-Time Path Planning: Millisecond-level dynamic obstacle avoidance algorithms  
+
+🎓 Education
+
+• M.Sc. in Aerospace Science & Technology  
+
+  Beijing Institute of Technology | 2023.9 - 2026.6 (Admission via Merit-based Selection)  
+• B.Eng. in Flight Vehicle Design (XuTeli school)  
+
+  Beijing Institute of Technology | 2019.9 - 2023.6  
+
+🏆 Academic Highlights
+
+🧠 Algorithm Innovations
+
+• MAS2DAC Framework: Achieved 1ms-level distributed decision-making (96.5% faster than traditional methods) via attention-based global value networks  
+
+• LLM-Agent Hierarchy: Reduced end-to-end latency >50% in dense dynamic environments  
+
+• Delayed-SAC Path Planner: Resolved real-time response bottlenecks in complex settings  
+
+📚 Publications
+
+🏷️ First-Author Papers
+
+1. "LLM-Agent Task Orchestration via Atomic Task Decomposition"  
+   Chinese Journal of Aeronautics (EI, under review)  
+
+2. "Delayed Soft Actor-Critic based Path Planning Method for UAV in Dense Obstacles Environment"  
+   Proc. of ICCSSE 2023 (EI indexed, Best Paper Award)  
+
+👥 Co-Authored Papers
+
+3. "Distributed Adaptive Coalition Task Allocation based on Reachable Region Online Prediction for Multi-Agent Systems"  
+   Defence Technology (SCI Q1, accepted) (4th author)  
+
+4. "Adaptive-critic-based Distributed Event-Triggered Augmented Differential Game for Cooperative Systems"  
+   IEEE Transactions on Automation Science and Engineering (SCI, under review) (4th author)  
+
+💡 Patents
+
+1. "Reinforcement Learning UAV Path Planning Method with Delayed Experience Prioritization"  
+   Chinese Patent No. 202311004197.1 (2nd inventor)  
+
+2. "Monocular Vision Obstacle Localization for UAVs using Data Augmentation"  
+   Chinese Patent No. 202410425330.9 (4th inventor)  
+
+3. "Differential Flatness-based Trajectory Planning for Fixed-Wing UAVs"  
+   Chinese Patent No. 202410547697.8 (5th inventor)  
+
+4. "Online Reachable Region Prediction Method for Multi-Agent Systems"  
+   National Defense Patent (4th inventor)  
+
+🏆 Awards & Honors
+
+🥇 National-Level Awards
+
+1. First Prize (Rank 1/5)  
+   10th China Graduate Future Flight Vehicle Innovation Competition  
+   Nov 2024  
+
+2. First Prize (Rank 1/1)  
+   4th National Undergraduate Aerospace Graduation Design Exchange  
+   May 2023  
+
+3. Third Prize (Rank 1/3)  
+   20th "HUAWEI Cup" China Post-Graduate Mathematical Contest in Modeling  
+   Dec 2023  
+
+🥉 Provincial/Ministerial-Level Awards
+
+4. Outstanding Undergraduate Thesis Award (Rank 1/1)  
+   Beijing Municipal Education Commission  
+   Oct 2023  
+
+5. Third Prize (Rank 4/10)  
+   4th Beijing College Students Innovation & Entrepreneurship Competition  
+   Jun 2025  
+
+⚙️ Technical Expertise
+
+Domain Skills
+
+Intelligent Decision DRL Algorithms (DDPG/TD3/SAC/PPO) • MARL (MADDPG) • LLM-Agent Frameworks
+
+Swarm Systems ROS/ROS2 Customization • C++ Algorithm Libraries • Semi-Physical Simulation
+
+UAV Full-Stack eVTOL Communication Networks • Cooperative Control Systems • GCS Design
+
+Programming Python (PyTorch/TensorFlow) • C++/C • MATLAB
+
+🚁 Projects (Civilian Applications)
+
+🌐 Heterogeneous UAV Swarm for Urban Emergencies
+
+• Developed search-and-monitoring architecture with adaptive formation control  
+
+• Implemented MARL decision engine for disaster response (National 1st Prize)  
+
+🤖 LLM-Agent Swarm Orchestration
+
+• Hierarchical framework: Semantic Parsing → Task Decoupling → ReAct Reasoning → Distributed Execution  
+
+• 50%+ latency reduction validated on crazyswarm platform  
+
+📡 Hardware-in-the-Loop Simulation
+
+• Built semi-physical verification platform with real-time scene editing  
+
+• Enabled full-stack validation from algorithms to hardware  
+
+📬 Contact
+
+• Academic Collaboration: Open to discussions on MARL algorithms and swarm systems  
+
+• Technical Consultation: UAV swarm development • ROS2 integration • Simulation platforms  
+
+• Connect:  
+
+  📧 clockzinc@163.com  
+  🔗 https://linkedin.com/in/yourprofile | https://github.com/yourusername  
+
+🔒 Note: All content adheres to academic integrity and civilian research guidelines  
+
+Key Design Principles:
+
+1. Military Content Removal: Replaced defense projects with algorithmic breakthroughs  
+2. Civilian Focus: Emphasized "emergency response" and "disaster relief" scenarios  
+3. Performance Metrics: Highlighted algorithmic efficiency gains (96.5%↑/50%↓)  
+4. Terminology Neutralization: Converted "guidance & control" to "cooperative decision-making"  
+
+Recommendation: Add ROS framework diagrams, algorithm workflows, and conference presentation photos to enhance visual impact. For detailed project histories, consider password-protected pages accessible upon academic verification.  
+
+Let me know if you'd like to:  
+• Add specific technical diagrams  
+
+• Include selected publication abstracts  
+
+• Customize sections for industry vs. academic audiences
 
