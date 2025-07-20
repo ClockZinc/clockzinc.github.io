@@ -8,21 +8,21 @@ redirect_from:
 ---
 
 
-👨🔬 About Me
+# 👨🔬 About Me
 
 Jianxin Zhong  
 M.Sc. Candidate in Aerospace Science & Technology | UAV Swarm Intelligence Researcher  
 🚀 School of Aerospace Engineering, Beijing Institute of Technology  
 📧 clockzinc@163.com | 📍 Haidian District, Beijing  
   
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClockZinc&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClockZinc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 🔐 **Research Transparency Notice:**  
 _"In compliance with institutional policy, all research-related repositories have been archived.  
 I'm now actively developing public AI tools - stay tuned for **PaperPal**:  An AI-powered academic recommendation system launching this quarter!"_  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClockZinc&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClockZinc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
-🔬 Research Focus
+
+# 🔬 Research Focus
 
 I am interest in intelligent decision-making for UAV swarms, specializing in:  
 • Multi-Agent Reinforcement Learning (MARL): Distributed task planning & real-time coordination  
@@ -31,7 +31,7 @@ I am interest in intelligent decision-making for UAV swarms, specializing in:
 
 • Real-Time Path Planning: Millisecond-level dynamic obstacle avoidance algorithms  
 
-🎓 Education
+# 🎓 Education
 
 • M.Sc. in Aerospace Science & Technology  
 
@@ -40,7 +40,7 @@ I am interest in intelligent decision-making for UAV swarms, specializing in:
 
   Beijing Institute of Technology | 2019.9 - 2023.6  
 
-🏆 Academic Highlights
+# 🏆 Academic Highlights
 
 🧠 Algorithm Innovations
 
@@ -120,7 +120,7 @@ UAV Full-Stack eVTOL Communication Networks • Cooperative Control Systems • 
 
 Programming Python (PyTorch/TensorFlow) • C++/C • MATLAB
 
-🚁 Projects (Civilian Applications)
+# 🚁 Projects (Civilian Applications)
 
 🌐 Heterogeneous UAV Swarm for Urban Emergencies
 
@@ -140,7 +140,7 @@ Programming Python (PyTorch/TensorFlow) • C++/C • MATLAB
 
 • Enabled full-stack validation from algorithms to hardware  
 
-📬 Contact
+# 📬 Contact
 
 • Academic Collaboration: Open to discussions on MARL algorithms and swarm systems  
 
@@ -149,18 +149,8 @@ Programming Python (PyTorch/TensorFlow) • C++/C • MATLAB
 • Connect:  
 
   📧 clockzinc@163.com  
-  🔗 https://linkedin.com/in/yourprofile | https://github.com/yourusername  
+  🔗 https://github.com/clockzinc
 
-🔒 Note: All content adheres to academic integrity and civilian research guidelines  
-
-Key Design Principles:
-
-1. Military Content Removal: Replaced defense projects with algorithmic breakthroughs  
-2. Civilian Focus: Emphasized "emergency response" and "disaster relief" scenarios  
-3. Performance Metrics: Highlighted algorithmic efficiency gains (96.5%↑/50%↓)  
-4. Terminology Neutralization: Converted "guidance & control" to "cooperative decision-making"  
-
-Recommendation: Add ROS framework diagrams, algorithm workflows, and conference presentation photos to enhance visual impact. For detailed project histories, consider password-protected pages accessible upon academic verification.  
 
 Let me know if you'd like to:  
 • Add specific technical diagrams  
