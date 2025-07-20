@@ -42,7 +42,7 @@ I am interest in intelligent decision-making for UAV swarms, specializing in:
 
 # 🏆 Academic Highlights
 
-🧠 Algorithm Innovations
+## 🧠 Algorithm Innovations
 
 • MAS2DAC Framework: Achieved 1ms-level distributed decision-making (96.5% faster than traditional methods) via attention-based global value networks  
 
@@ -50,7 +50,7 @@ I am interest in intelligent decision-making for UAV swarms, specializing in:
 
 • Delayed-SAC Path Planner: Resolved real-time response bottlenecks in complex settings  
 
-📚 Publications
+## 📚 Publications
 
 🏷️ First-Author Papers
 
@@ -68,7 +68,7 @@ I am interest in intelligent decision-making for UAV swarms, specializing in:
 4. "Adaptive-critic-based Distributed Event-Triggered Augmented Differential Game for Cooperative Systems"  
    IEEE Transactions on Automation Science and Engineering (SCI, under review) (4th author)  
 
-💡 Patents
+## 💡 Patents
 
 1. "Reinforcement Learning UAV Path Planning Method with Delayed Experience Prioritization"  
    Chinese Patent No. 202311004197.1 (2nd inventor)  
@@ -82,7 +82,7 @@ I am interest in intelligent decision-making for UAV swarms, specializing in:
 4. "Online Reachable Region Prediction Method for Multi-Agent Systems"  
    National Defense Patent (4th inventor)  
 
-🏆 Awards & Honors
+## 🏆 Awards & Honors
 
 🥇 National-Level Awards
 
@@ -108,7 +108,7 @@ I am interest in intelligent decision-making for UAV swarms, specializing in:
    4th Beijing College Students Innovation & Entrepreneurship Competition  
    Jun 2025  
 
-⚙️ Technical Expertise
+## ⚙️ Technical Expertise
 
 Domain Skills
 
