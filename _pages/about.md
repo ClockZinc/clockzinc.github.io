@@ -33,12 +33,10 @@ I am interest in intelligent decision-making for UAV swarms, specializing in:
 
 # 🎓 Education
 
-• M.Sc. in Aerospace Science & Technology  
-
-  Beijing Institute of Technology | 2023.9 - 2026.6 (Admission via Merit-based Selection)  
-• B.Eng. in Flight Vehicle Design (XuTeli school)  
-
-  Beijing Institute of Technology | 2019.9 - 2023.6  
+| **Degree** | **Institution & Program** | **Duration** |  
+|------------|----------------------------|--------------|  
+| **M.Sc. in Aerospace Science & Technology** | Beijing Institute of Technology | 2023.9 - 2026.6 |  
+| **B.Eng. in Flight Vehicle Design** | Beijing Institute of Technology (XuTeli Honors Program) | 2019.9 - 2023.6 |
 
 # 🏆 Academic Highlights
 
@@ -54,33 +52,28 @@ I am interest in intelligent decision-making for UAV swarms, specializing in:
 
 🏷️ First-Author Papers
 
-1. "LLM-Agent Task Orchestration via Atomic Task Decomposition"  
-   Chinese Journal of Aeronautics (EI, under review)  
-
-2. "Delayed Soft Actor-Critic based Path Planning Method for UAV in Dense Obstacles Environment"  
-   Proc. of ICCSSE 2023 (EI indexed, Best Paper Award)  
+| Title                                                                                                                      | Publication Venue               | Status/Award          |  
+|---------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----------------------|  
+| "LLM-Agent Task Orchestration via Atomic Task Decomposition"                                                              | Chinese Journal of Aeronautics   | EI (under review)     |  
+| "Delayed Soft Actor-Critic based Path Planning Method for UAV in Dense Obstacles Environment"                             | ICCSSE 2023                    | EI indexed, **Best Paper Award** |  
 
 👥 Co-Authored Papers
 
-3. "Distributed Adaptive Coalition Task Allocation based on Reachable Region Online Prediction for Multi-Agent Systems"  
-   Defence Technology (SCI Q1, accepted) (4th author)  
-
-4. "Adaptive-critic-based Distributed Event-Triggered Augmented Differential Game for Cooperative Systems"  
-   IEEE Transactions on Automation Science and Engineering (SCI, under review) (4th author)  
+| Title                                                                                                                      | Publication Venue               | Status & Position     |  
+|---------------------------------------------------------------------------------------------------------------------------|---------------------------------|------------------------|  
+| "Distributed Adaptive Coalition Task Allocation based on Reachable Region Online Prediction for Multi-Agent Systems"       | Defence Technology             | SCI Q1 (accepted), 4th author |  
+| "Adaptive-critic-based Distributed Event-Triggered Augmented Differential Game for Cooperative Systems"                  | IEEE Trans. Automation Science & Engineering | SCI (under review), 4th author |  
 
 ## 💡 Patents
 
-1. "Reinforcement Learning UAV Path Planning Method with Delayed Experience Prioritization"  
-   Chinese Patent No. 202311004197.1 (2nd inventor)  
+### 💡 Patents  
 
-2. "Monocular Vision Obstacle Localization for UAVs using Data Augmentation"  
-   Chinese Patent No. 202410425330.9 (4th inventor)  
-
-3. "Differential Flatness-based Trajectory Planning for Fixed-Wing UAVs"  
-   Chinese Patent No. 202410547697.8 (5th inventor)  
-
-4. "Online Reachable Region Prediction Method for Multi-Agent Systems"  
-   National Defense Patent (4th inventor)  
+| **Patent Title**                                                                                | **Application No.**     | **Type**             | **Inventor Position** |  
+|-------------------------------------------------------------------------------------------------|-------------------------|-----------------------|------------------------|  
+| Reinforcement Learning UAV Path Planning Method with Delayed Experience Prioritization          | CN 202311004197.1       | National Invention Patent       | 2nd inventor          |  
+| Monocular Vision Obstacle Localization for UAVs using Data Augmentation                         | CN 202410425330.9       | National Invention Patent       | 4th inventor          |  
+| Differential Flatness-based Trajectory Planning for Fixed-Wing UAVs                            | CN 202410547697.8       | National Invention Patent       | 5th inventor          |  
+| Online Reachable Region Prediction Method for Multi-Agent Systems                              | *-*           | National Defense Patent | 4th inventor          |  
 
 ## 🏆 Awards & Honors
 
