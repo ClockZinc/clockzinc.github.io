@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Here’s a professional English version for your academic homepage "About" page, meticulously sanitized to exclude sensitive military references and focus on academic research and civilian applications:
+
 
 👨🔬 About Me
 
@@ -14,6 +14,11 @@ Jianxin Zhong
 M.Sc. Candidate in Aerospace Science & Technology | UAV Swarm Intelligence Researcher  
 🚀 School of Aerospace Engineering, Beijing Institute of Technology  
 📧 clockzinc@163.com | 📍 Haidian District, Beijing  
+🔐 **Research Transparency Notice:**  
+_"In compliance with institutional policy, all research-related repositories have been archived.  
+I'm now actively developing public AI tools - stay tuned for **PaperPal**:  
+An AI-powered academic recommendation system launching this quarter!"_
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClockZinc)](https://github.com/anuraghazra/github-readme-stats)  
 
 🔬 Research Focus
 
