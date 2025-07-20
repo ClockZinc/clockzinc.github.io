@@ -14,11 +14,13 @@ Jianxin Zhong
 M.Sc. Candidate in Aerospace Science & Technology | UAV Swarm Intelligence Researcher  
 🚀 School of Aerospace Engineering, Beijing Institute of Technology  
 📧 clockzinc@163.com | 📍 Haidian District, Beijing  
+  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClockZinc&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClockZinc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 🔐 **Research Transparency Notice:**  
 _"In compliance with institutional policy, all research-related repositories have been archived.  
 I'm now actively developing public AI tools - stay tuned for **PaperPal**:  An AI-powered academic recommendation system launching this quarter!"_  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClockZinc&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClockZinc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
 🔬 Research Focus
 
