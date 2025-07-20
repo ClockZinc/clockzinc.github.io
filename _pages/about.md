@@ -11,7 +11,7 @@ redirect_from:
 # 👨🔬 About Me
 
 Jianxin Zhong  
-M.Sc. Candidate in Aerospace Science & Technology | UAV Swarm Intelligence Researcher  
+M.Sc. Candidate in Aeronautics & Astronautics Science and Technology | UAV Swarm Intelligence Researcher  
 🚀 School of Aerospace Engineering, Beijing Institute of Technology  
 📧 clockzinc@163.com | 📺 [bilibili channel](https://space.bilibili.com/113557956) | 📍 Haidian District, Beijing  
   
