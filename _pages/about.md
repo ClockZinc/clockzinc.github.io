@@ -39,7 +39,7 @@ M.Sc. Candidate in Aeronautics & Astronautics Science and Technology | UAV Swarm
 _"In compliance with institutional policy, **all research-related repositories have been made private**.  
 I'm now actively developing public AI tools - stay tuned for **PaperPal**:  An AI-powered academic recommendation system launching this quarter!"_    
 ![image_AI_BLIC](https://github.com/ClockZinc/ClockZinc/blob/main/images/small_review_of_bilc.png)
-
+![Editing a Markdown file for a talk](/images/editing-talk.png)
 
 # 🔬 Research Focus
 I am interested in **Autonomous Unmanned Aerial Systems**, with a focus on intelligent decision-making and navigation for UAVs. My specialization includes:
