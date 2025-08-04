@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ## Hi there 👋
 
 # 👨🔬 About Me
@@ -31,24 +30,27 @@ M.Sc. Candidate in Aeronautics & Astronautics Science and Technology | UAV Swarm
   </a>
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ClockZinc&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClockZinc&layout=donut" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ClockZinc&show_icons=true&theme=tokyonight&include_all_commits=true" style="height:245px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClockZinc&layout=donut" style="height:245px;"/>
 </div>
 <br clear="all"/>
 
 🔐 **Research Transparency Notice:**  
-_"In compliance with institutional policy, all research-related repositories have been archived.  
+_"In compliance with institutional policy, **all research-related repositories have been made private**.  
 I'm now actively developing public AI tools - stay tuned for **PaperPal**:  An AI-powered academic recommendation system launching this quarter!"_    
+![image_AI_BLIC](https://github.com/ClockZinc/ClockZinc/blob/main/images/small_review_of_bilc.png)
 
 
 # 🔬 Research Focus
+I am interested in **Autonomous Unmanned Aerial Systems**, with a focus on intelligent decision-making and navigation for UAVs. My specialization includes:
 
-I am interest in intelligent decision-making for UAV swarms, specializing in:  
-• Multi-Agent Reinforcement Learning (MARL): Distributed task planning & real-time coordination  
+• **Autonomous Safe Decision-Making**: Developing safe and efficient decision-making frameworks for UAVs to independently execute and complete various autonomous tasks.
 
-• Semantic-Driven Mission Orchestration: LLM-Agent frameworks for autonomous task decomposition  
+• **Autonomous Navigation**: Designing millisecond-level dynamic obstacle avoidance algorithms for intelligent and adaptive safe trajectory planning.
 
-• Real-Time Path Planning: Millisecond-level dynamic obstacle avoidance algorithms  
+• Semantic-Driven Mission Orchestration: Utilizing LLM-Agent frameworks to autonomously decompose and manage complex tasks.
+
+
 
 # 🎓 Education
 
@@ -81,7 +83,8 @@ I am interest in intelligent decision-making for UAV swarms, specializing in:
 | Title                                                                                                                      | Publication Venue               | Status & Position     |  
 |---------------------------------------------------------------------------------------------------------------------------|---------------------------------|------------------------|  
 | "Distributed Adaptive Coalition Task Allocation based on Reachable Region Online Prediction for Multi-Agent Systems"       | Defence Technology             | SCI Q1 (accepted), 4th author |  
-| "Adaptive-critic-based Distributed Event-Triggered Augmented Differential Game for Cooperative Systems"                  | IEEE Trans. Automation Science & Engineering | SCI (under review), 4th author |  
+| "Adaptive-critic-based Distributed Event-Triggered Augmented Differential Game for Cooperative Systems"                  | IEEE Trans. Automation Science & Engineering | SCI (accepted), 4th author |  
+| "基于强化学习冲突消解的大规模无人机集群航迹规划方法"                                                                         | 兵工学报 | EI重要 (accepted), 4th author |  
 
 ## 💡 Patents
 
@@ -136,7 +139,7 @@ I am interest in intelligent decision-making for UAV swarms, specializing in:
 
 # 📬 Contact
 
-• Academic Collaboration: Open to discussions on MARL algorithms and swarm systems  
+• Academic Collaboration: Open to discussions on MARL algorithms and Autonomous swarm systems  
 
 • Technical Consultation: UAV swarm development • ROS2 integration • Simulation platforms  
 
@@ -144,12 +147,4 @@ I am interest in intelligent decision-making for UAV swarms, specializing in:
 
   📧 clockzinc@163.com  
   🔗 https://github.com/clockzinc
-
-
-Let me know if you'd like to:  
-• Add specific technical diagrams  
-
-• Include selected publication abstracts  
-
-• Customize sections for industry vs. academic audiences
 
