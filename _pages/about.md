@@ -37,7 +37,15 @@ M.Sc. Candidate in Aeronautics & Astronautics Science and Technology | UAV Swarm
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClockZinc&layout=compact" width="42.63%" />
 </p>
 
-
+# 🗂️ Portfolio
+## Undergraduate Thesis – UAV Swarms Trajectory Planning
+![PPT1](/images/ppt1.png)  
+## Graduate Research – RL-Based Task Allocation
+![PPT2](/images/ppt2.png)  
+## Graduate Research – Robust Trajectory Planning
+![PPT3](/images/ppt3.png)  
+## Graduate Research – LLM Agents mission planning
+![PPT4](/images/ppt4.png)  
 
 🔐 **Research Transparency Notice:**  
 _"In compliance with institutional policy, **all research-related repositories have been made private**.  
