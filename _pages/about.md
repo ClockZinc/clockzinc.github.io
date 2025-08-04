@@ -15,52 +15,28 @@ M.Sc. Candidate in Aeronautics & Astronautics Science and Technology | UAV Swarm
 🚀 School of Aerospace Engineering, Beijing Institute of Technology  
 📧 clockzinc@163.com | 📺 [bilibili channel](https://space.bilibili.com/113557956) | 📍 Haidian District, Beijing  
   
-<table align="center">
-  <tr>
-    <td>
-      <p align="center">
-        <a href="https://github.com/ClockZinc/sd-webui-IS-NET-pro">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClockZinc&repo=sd-webui-IS-NET-pro&show_owner=true" />
-        </a>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <a href="https://github.com/ClockZinc/libtorch_PPO">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClockZinc&repo=libtorch_PPO&show_owner=true" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p align="center">
-        <a href="https://github.com/ClockZinc/RL">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClockZinc&repo=RL&show_owner=true" />
-        </a>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <a href="https://github.com/ClockZinc/Video2Frame-Frame2Video">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClockZinc&repo=Video2Frame-Frame2Video&show_owner=true" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ClockZinc&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClockZinc&layout=donut" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/ClockZinc/sd-webui-IS-NET-pro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClockZinc&repo=sd-webui-IS-NET-pro&show_owner=true" width="45%" />
+  </a>
+  <a href="https://github.com/ClockZinc/libtorch_PPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClockZinc&repo=libtorch_PPO&show_owner=true" width="45%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ClockZinc/RL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClockZinc&repo=RL&show_owner=true" width="45%" />
+  </a>
+  <a href="https://github.com/ClockZinc/Video2Frame-Frame2Video">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClockZinc&repo=Video2Frame-Frame2Video&show_owner=true" width="45%" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ClockZinc&show_icons=true&theme=transparent&include_all_commits=true" width="47.37%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClockZinc&layout=compact" width="42.63%" />
+</p>
+
 
 
 🔐 **Research Transparency Notice:**  
